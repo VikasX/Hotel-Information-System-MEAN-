@@ -1,0 +1,10 @@
+TO merge the project:
+
+> MErge the code and install dependencies
+
+>npm install --save (optional)
+
+> at first angular url is messed up.
+NOTE: To solve copy this code in angular-app/app.js routes().
+
+	$locationProvider.hashPrefix('');

@@ -1,0 +1,4 @@
+{ "_id" : ObjectId("58d93c39933137951bbb3d23"), "name" : "MongoDB", "role" : "DB" }
+{ "_id" : ObjectId("58d93dae933137951bbb3d24"), "name" : "Node.js", "role" : "Platform" }
+{ "_id" : ObjectId("58d93dae933137951bbb3d25"), "name" : "Express", "role" : "Webapplicationserver" }
+{ "_id" : ObjectId("58d93dae933137951bbb3d26"), "name" : "Angular", "role" : "Front-endframework" }
